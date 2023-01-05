@@ -18,6 +18,12 @@ This repository includes the data and codes for the manuscript "Predicting survi
 		* pROC
 		* ROCR
 		* MLmetrics
+		
+	2. '''NSCLC_Machine_Learning''' contains the python codes for generating the figures in the manuscript related to machine learning models. Within the folder there 4 scripts that detail distinct steps in the process. Additonally, there is a README file elaborating further on the purpose of each of the prospective files.
+		* step01_data_cleaning.ipynb
+		* step02_exploratory_analysis.ipynb
+		* step03_predictive_modeling_os.ipynb
+		* step04_predictive_modeling_pfs.ipynb
 
 
 ## Contact information
